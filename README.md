@@ -1,6 +1,8 @@
-<h1> ![Uploading image.png…]()
-</h1>
+ ![Uploading image.png…]()
 
+
+
+Screenshot 2024-11-10 182148.png
 
 <h1 align="center">Hi 👋, I'm gswetha17</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
