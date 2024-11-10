@@ -1,4 +1,5 @@
-<h1> https://github.com/gswetha17/gswetha17/blob/main/Screenshot%202024-11-10%20182148.png</h1>
+<h1> ![Uploading image.png…]()
+</h1>
 
 
 <h1 align="center">Hi 👋, I'm gswetha17</h1>
